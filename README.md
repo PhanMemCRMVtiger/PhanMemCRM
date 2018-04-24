@@ -1,2 +1,1 @@
-# PhanMemCRM
-Applying the most modern Cloud Computing technology and Customizing suitably for local business model in Vietnam.
+&Aacute;p dụng giải ph&aacute;p <a href="https://www.vtiger.com.vn/"><strong>Phần mềm CRM</strong></a> c&aacute;c vấn đề tr&ecirc;n sẽ được giải quyết một c&aacute;ch triệt để. Giải ph&aacute;p <a href="https://www.vtiger.com.vn"><strong>Vtiger CRM</strong></a> được t&iacute;ch hợp tr&ecirc;n nền Website, dữ liệu được lưu trữ tr&ecirc;n một m&aacute;y chủ n&ecirc;n việc tra cứu th&ocirc;ng tin c&oacute; thể diễn ra ở bất cứ đ&acirc;u c&oacute; kết nối internet, người sử dụng sẽ kh&ocirc;ng c&ograve;n phải phụ thuộc v&agrave;o thời gian v&agrave; khoảng c&aacute;ch địa l&yacute;.</p>
